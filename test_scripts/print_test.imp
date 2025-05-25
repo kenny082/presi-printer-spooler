@@ -1,0 +1,7 @@
+type aaa
+printer Alice aaa
+disable Alice
+print test_scripts/testfile.aaa
+enable Alice
+jobs
+quit

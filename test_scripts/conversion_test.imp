@@ -1,0 +1,4 @@
+type aaa
+type bbb
+conversion aaa bbb /bin/cat
+quit

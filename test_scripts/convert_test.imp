@@ -1,0 +1,9 @@
+type aaa
+type ccc
+conversion ccc aaa util/convert ccc aaa
+printer Bob aaa
+disable Bob
+print test_scripts/testfile.ccc
+enable Bob
+jobs
+quit
