@@ -1,0 +1,9 @@
+bin/
+build/
+spool/
+test_output/
+*.o
+*.d
+*~
+*.out
+*.bak
